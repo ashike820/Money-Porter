@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RuleSet Name="Rules for Mobile_Banking" Description="Code analysis rules for Mobile_Banking.csproj." ToolsVersion="16.0">
+  <Rules AnalyzerId="Microsoft.CodeAnalysis.Features" RuleNamespace="Microsoft.CodeAnalysis.Features">
+    <Rule Id="IDE0033" Action="None" />
+    <Rule Id="IDE0044" Action="None" />
+    <Rule Id="IDE0055" Action="None" />
+    <Rule Id="IDE0070" Action="None" />
+  </Rules>
+</RuleSet>
